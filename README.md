@@ -32,20 +32,7 @@
   </a>
 </p>
 
-<div align="center">
-    <img align="center" width="100" src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png"  />
-</div>
 
-<br>
-
-<div align="center">
-
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/zeetafrontdev//)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/https://www.instagram.com/zzz_3t44//)](https://www.instagram.com/https://www.instagram.com/zzz_3t44/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ebdtv4@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://zeetafrontdev.netlify.app)](https://zeetafrontdev.netlify.app)
-
-</div>
 
 ###
 
@@ -64,6 +51,21 @@
 <img align="center" width="1000" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  />
 
 <br>
+
+<div align="center">
+    <img align="center" width="100" src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png"  />
+</div>
+
+<br>
+
+<div align="center">
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/zeetafrontdev//)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/https://www.instagram.com/zzz_3t44//)](https://www.instagram.com/https://www.instagram.com/zzz_3t44/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ebdtv4@gmail.com)
+[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://zeetafrontdev.netlify.app)](https://zeetafrontdev.netlify.app)
+
+</div>
 
 
 
