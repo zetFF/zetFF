@@ -1,3 +1,8 @@
+<div align="center">
+    <img align="center" width="1000" src="https://img.itch.zone/aW1nLzE0NTcxNzI0LmdpZg==/original/UhlyUh.gif"  />
+</div>
+
+<br>
 
 <h1 align="center">🧑 Hello, im Zeeta</h1>
 
@@ -318,9 +323,7 @@
 
 
 
-<div align="center">
-    <img align="center" width="1000" src="https://img.itch.zone/aW1nLzE0NTcxNzI0LmdpZg==/original/UhlyUh.gif"  />
-</div>
+
 
 <img align="center" width="1000" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  />
 
