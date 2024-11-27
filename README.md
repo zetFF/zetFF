@@ -204,7 +204,7 @@
 <img align="center" width="1000" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  />
 
 
-<p align="left">- 🔭 field work practice at PT Globalintermedia Nusantara<br><br>- 📚 my experience learning about the world of Frontend Developer in the world of Website programming using the Vue JS Framework.<br><br>- ⚡ My mainstay in the world of Frontend web developers is an easy combination of Frameworks and using Tailwind CSS.<br><br>- 🏆️ won first place at the city level in the Website Design competition.<br><br>- 🎸🥁 an All Role in band music instrument playing.</p>
+<p align="center">- 🔭 field work practice at PT Globalintermedia Nusantara<br><br>- 📚 my experience learning about the world of Frontend Developer in the world of Website programming using the Vue JS Framework.<br><br>- ⚡ My mainstay in the world of Frontend web developers is an easy combination of Frameworks and using Tailwind CSS.<br><br>- 🏆️ won first place at the city level in the Website Design competition.<br><br>- 🎸🥁 an All Role in band music instrument playing.</p>
 
 ###
 
