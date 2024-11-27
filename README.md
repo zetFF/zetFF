@@ -159,7 +159,7 @@
 <div align="center">
 <code><img src="https://skillicons.dev/icons?i=astro" height="50" alt="astro logo"  /></code>
   <img width="0" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="bootstrap logo"  />
+  <code><img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="bootstrap logo"  /></code>
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=cloudflare" height="50" alt="cloudflare logo"  />
   <img width="0" />
