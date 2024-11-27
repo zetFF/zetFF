@@ -3,65 +3,6 @@
 </div>
 
 <img align="center" width="1000" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  />
-<h1 align="center">🧑 Hello, im Zeeta</h1>
-
-###
-
-<h3 align="center">👨‍💻 I became a Website Developer</h3>
-
-###
-
-<h3 align="center">🎸 I'm a bassist player in a band group</h3>
-
-###
-
-<h4 align="center">🖥️ have participated in Cyber Security forums</h4>
-
-###
-
-<p align="center">My hobby is to play all musical instruments when I have free time.🥁🎸🎻🪕🎷🎹</p>
-
-###
-
-<p align="center">🎶my soul is Metalrock, Metalcore, Hardcore🎶</p>
-
-###
-
-<p align="center">My passion for learning about the world of Programming is very meaningful, with time, I always exploit in the digital world, regarding Website Programming to the creation of Mobile applications. but I am currently focusing on the fields of Frontend Web Developer / Frontend Web Engginer / Web Designer and Reactive Design / Frontend Rebuilder / Frontend Styler.</p>
-
-###
-
-<p align="center">we are very happy that you have visited our profile. don't forget to follow this account and let us collaborate for self-development and the development of the Digital era. thank you</p>
-
-###
-
-<p align="center">I am a bassist player in a band called (MelodicNine). this is my second career path, I really like music. from the beginning I played Bass guitar, until I am now an All Role of all musical instruments.</p>
-
-###
-
-<img align="right" height="150" src="https://media.licdn.com/dms/image/v2/D4D03AQGqRawqvTS4jw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1709582119375?e=1738195200&v=beta&t=04CuQg-ADvJS0tuLS90T7ekkmbIGtJdm6ajHQ-9wOfg"  />
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/zeetafrontdev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="40" alt="linkedin logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="55" height="40" alt="discord logo"  />
-  <a href="https://youtube.com/@melodicnine?si=vk7wkKgFL1Jg8wms" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="55" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/melodicnine/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="40" alt="instagram logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="55" height="40" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="55" height="40" alt="telegram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="55" height="40" alt="twitter logo"  />
-</div>
-
-###
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=zetFF.zetFF&left_text=Hello%20Everyone"  />
 
 ###
 
