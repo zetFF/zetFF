@@ -1,4 +1,4 @@
-<div align="center">
+![image](https://github.com/user-attachments/assets/69a44b54-fbda-4f48-854f-09930ebd5eca)<div align="center">
     <img align="center" width="1000" src="https://steamuserimages-a.akamaihd.net/ugc/1651091246343514308/0CF06F39BBD98BA6D2559B70D1E9168F8EFD1C09/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"  />
 </div>
 
@@ -209,7 +209,9 @@
 
 <img align="center" width="1000" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  />
 
-<h2 align="center">🔥   My Stats  🔥</h2>
+<h1 align="center" ><img src="![image](https://github.com/user-attachments/assets/a87083a2-00b0-4673-868d-c8c6b93885bf)
+" width="28">My Stat <img src="![image](https://github.com/user-attachments/assets/e17ca17e-7f5b-4cc2-868b-d2f835bd828a)
+" width="28"></h1>
 
 ###
 
