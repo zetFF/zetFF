@@ -5,10 +5,10 @@
 <img align="center" width="1000" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  />
 
 
-<h1 align="left">Hello Everyone, im Zeeta Website Developer</h1>
+<h1 align="center">Hello Everyone, im Zeeta Website Developer</h1>
 
 
-<p align="left">
+<p align="center">
     <a href="https://github.com/zetFF/" target="_blank">
         <img src="https://komarev.com/ghpvc/?username=zetFF&label=Profile%20views&color=000000&style=flat-square" alt="view profile"/>
     </a>
@@ -40,11 +40,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About me and My soul</h3>
+<h3 align="center">👩‍💻  About me and My soul</h3>
 
 ###
 
-<p align="left">my passion for learning about the world of Programming is very meaningful, with the passage of time, I always exploit in the digital world, regarding Website Programming to the creation of Mobile applications. but I only focus on the field of Frontend Web Developer / Frontend Web Engginer / Web Designer and Reactive Design / Frontend Rebuilder / Frontend Styler.<br><br>we are very happy that you have visited our profile. don't forget to follow this account and let us collaborate for self-development  and the development of the Digital era. thank you<br><br>I am a bassist player in a band called (MelodicNine). this is my second career path, I really like music. from the beginning I played Bass guitar, until I am now an All Role of all musical instruments.</p>
+<p align="center">my passion for learning about the world of Programming is very meaningful, with the passage of time, I always exploit in the digital world, regarding Website Programming to the creation of Mobile applications. but I only focus on the field of Frontend Web Developer / Frontend Web Engginer / Web Designer and Reactive Design / Frontend Rebuilder / Frontend Styler.<br><br>we are very happy that you have visited our profile. don't forget to follow this account and let us collaborate for self-development  and the development of the Digital era. thank you<br><br>I am a bassist player in a band called (MelodicNine). this is my second career path, I really like music. from the beginning I played Bass guitar, until I am now an All Role of all musical instruments.</p>
 
 ###
 
