@@ -83,11 +83,11 @@
 
 <img align="center" width="1000" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"  />
 
-<h3 align="left">🛠 Language and tools 🛠</h3>
+<h3 align="center">🛠 Language and tools 🛠</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=adonis" height="40" alt="adonisjs logo"  />
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
