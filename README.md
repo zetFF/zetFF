@@ -209,7 +209,7 @@
 
 <img align="center" width="1000" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  />
 
-<h1 align="center" ><img src="https://i.pinimg.com/originals/af/8a/27/af8a27bf984e189f6a6bd7a6922075c1.gif" width="28">My Statistic<img src="https://i.pinimg.com/originals/af/8a/27/af8a27bf984e189f6a6bd7a6922075c1.gif" width="28"></h1>
+<h1 align="center" > <img src="https://i.pinimg.com/originals/af/8a/27/af8a27bf984e189f6a6bd7a6922075c1.gif" width="28"> My Statistic <img src="https://i.pinimg.com/originals/af/8a/27/af8a27bf984e189f6a6bd7a6922075c1.gif" width="28"></h1>
 
 ###
 
