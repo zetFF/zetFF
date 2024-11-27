@@ -143,67 +143,67 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=astro" height="60" alt="astro logo"  />
-  <img width="10" />
+  <img width="0" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo"  />
-  <img width="10" />
+  <img width="0" />
   <img src="https://skillicons.dev/icons?i=cloudflare" height="60" alt="cloudflare logo"  />
-  <img width="10" />
+  <img width="0" />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo"  />
-  <img width="10" />
+  <img width="0" />
   <img src="https://skillicons.dev/icons?i=discord" height="60" alt="discord logo"  />
-  <img width="10" />
+  <img width="0" />
   <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
-  <img width="10" />
+  <img width="0" />
   <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
-  <img width="10" />
+  <img width="0" />
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
-  <img width="10" />
+  <img width="0" />
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
-  <img width="10" />
+  <img width="0" />
   <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel logo"  />
-  <img width="10" />
+  <img width="0" />
   <img src="https://skillicons.dev/icons?i=materialui" height="60" alt="materialui logo"  />
-  <img width="10" />
+  <img width="0" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
-  <img width="10" />
+  <img width="0" />
   <img src="https://skillicons.dev/icons?i=nuxtjs" height="60" alt="nuxtjs logo"  />
-  <img width="10" />
+  <img width="0" />
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
-  <img width="10" />
+  <img width="0" />
   <img src="https://skillicons.dev/icons?i=prisma" height="60" alt="prisma logo"  />
-  <img width="10" />
+  <img width="0" />
   <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
-  <img width="10" />
+  <img width="0" />
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
-  <img width="10" />
+  <img width="0" />
   <img src="https://skillicons.dev/icons?i=remix" height="60" alt="remix logo"  />
-  <img width="10" />
+  <img width="0" />
   <img src="https://skillicons.dev/icons?i=solidjs" height="60" alt="solid logo"  />
-  <img width="10" />
+  <img width="0" />
   <img src="https://skillicons.dev/icons?i=svelte" height="60" alt="svelte logo"  />
-  <img width="10" />
+  <img width="0" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="10" />
+  <img width="0" />
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="10" />
+  <img width="0" />
   <img src="https://skillicons.dev/icons?i=vite" height="60" alt="vite logo"  />
-  <img width="10" />
+  <img width="0" />
   <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
-  <img width="10" />
+  <img width="0" />
   <img src="https://skillicons.dev/icons?i=vue" height="60" alt="vuejs logo"  />
-  <img width="10" />
+  <img width="0" />
   <img src="https://skillicons.dev/icons?i=sass" height="60" alt="sass logo"  />
-  <img width="10" />
+  <img width="0" />
   <img src="https://skillicons.dev/icons?i=netlify" height="60" alt="netlify logo"  />
-  <img width="10" />
+  <img width="0" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="10" />
+  <img width="0" />
   <img src="https://skillicons.dev/icons?i=md" height="60" alt="markdown logo"  />
-  <img width="10" />
+  <img width="0" />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
-  <img width="10" />
+  <img width="0" />
   <img src="https://skillicons.dev/icons?i=electron" height="60" alt="electron logo"  />
-  <img width="10" />
+  <img width="0" />
   <img src="https://skillicons.dev/icons?i=stackoverflow" height="60" alt="stackoverflow logo"  />
 </div>
 
