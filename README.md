@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/69a44b54-fbda-4f48-854f-09930ebd5eca)<div align="center">
+<div align="center">
     <img align="center" width="1000" src="https://steamuserimages-a.akamaihd.net/ugc/1651091246343514308/0CF06F39BBD98BA6D2559B70D1E9168F8EFD1C09/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"  />
 </div>
 
@@ -209,7 +209,7 @@
 
 <img align="center" width="1000" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  />
 
-<h1 align="center" >This<img src="https://media1.giphy.com/media/47GPQ7ZzivsemHKPvB/giphy.gif?cid=6c09b952mrbht6poigh2ozcc30t559bar2suc7c9wf7v0d5d&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="28">My Statistic</h1>
+<h1 align="center" ><img src="https://i.pinimg.com/originals/af/8a/27/af8a27bf984e189f6a6bd7a6922075c1.gif" width="28">My Statistic</h1>
 
 ###
 
