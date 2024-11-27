@@ -161,21 +161,21 @@
   <img width="0" />
   <code><img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="bootstrap logo"  /></code>
   <img width="0" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="50" alt="cloudflare logo"  />
+  <code><img src="https://skillicons.dev/icons?i=cloudflare" height="50" alt="cloudflare logo"  /></code>
   <img width="0" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  />
+    <code> <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  /></code>
   <img width="0" />
-  <img src="https://skillicons.dev/icons?i=discord" height="50" alt="discord logo"  />
+  <code><img src="https://skillicons.dev/icons?i=discord" height="50" alt="discord logo"  /></code>
   <img width="0" />
-  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
+  <code><img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  /></code>
   <img width="0" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
+  <code><img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  /></code>
   <img width="0" />
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
+  <code><img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  /></code>
   <img width="0" />
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
+  <code><img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  /></code>
   <img width="0" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="50" alt="laravel logo"  />
+  <code><img src="https://skillicons.dev/icons?i=laravel" height="50" alt="laravel logo"  /></code>
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=materialui" height="50" alt="materialui logo"  />
   <img width="0" />
