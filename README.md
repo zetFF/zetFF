@@ -177,49 +177,49 @@
   <img width="0" />
   <code><img src="https://skillicons.dev/icons?i=laravel" height="50" alt="laravel logo"  /></code>
   <img width="0" />
-  <img src="https://skillicons.dev/icons?i=materialui" height="50" alt="materialui logo"  />
+  <code><img src="https://skillicons.dev/icons?i=materialui" height="50" alt="materialui logo"  /></code>
   <img width="0" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
+  <code><img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  /></code>
   <img width="0" />
-  <img src="https://skillicons.dev/icons?i=nuxtjs" height="50" alt="nuxtjs logo"  />
+  <code><img src="https://skillicons.dev/icons?i=nuxtjs" height="50" alt="nuxtjs logo"  /></code>
   <img width="0" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo"  />
+  <code><img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo"  /></code>
   <img width="0" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="50" alt="prisma logo"  />
+  <code><img src="https://skillicons.dev/icons?i=prisma" height="50" alt="prisma logo"  /></code>
   <img width="0" />
-  <img src="https://skillicons.dev/icons?i=postman" height="50" alt="postman logo"  />
+ <code> <img src="https://skillicons.dev/icons?i=postman" height="50" alt="postman logo"  /></code>
   <img width="0" />
-  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
+  <code><img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  /></code>
   <img width="0" />
-  <img src="https://skillicons.dev/icons?i=remix" height="50" alt="remix logo"  />
+  <code><img src="https://skillicons.dev/icons?i=remix" height="50" alt="remix logo"  /></code>
   <img width="0" />
-  <img src="https://skillicons.dev/icons?i=solidjs" height="50" alt="solid logo"  />
+  <code><img src="https://skillicons.dev/icons?i=solidjs" height="50" alt="solid logo"  /></code>
   <img width="0" />
-  <img src="https://skillicons.dev/icons?i=svelte" height="50" alt="svelte logo"  />
+  <code><img src="https://skillicons.dev/icons?i=svelte" height="50" alt="svelte logo"  /></code>
   <img width="0" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
+  <code><img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  /></code>
   <img width="0" />
-  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
+  <code><img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  /></code>
   <img width="0" />
-  <img src="https://skillicons.dev/icons?i=vite" height="50" alt="vite logo"  />
+ <code><img src="https://skillicons.dev/icons?i=vite" height="50" alt="vite logo"  /></code>
   <img width="0" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
+  <code><img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  /></code>
   <img width="0" />
-  <img src="https://skillicons.dev/icons?i=vue" height="50" alt="vuejs logo"  />
+  <code><img src="https://skillicons.dev/icons?i=vue" height="50" alt="vuejs logo"  /></code>
   <img width="0" />
-  <img src="https://skillicons.dev/icons?i=sass" height="50" alt="sass logo"  />
+ <code><img src="https://skillicons.dev/icons?i=sass" height="50" alt="sass logo"  /></code>
   <img width="0" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="50" alt="netlify logo"  />
+  <code><img src="https://skillicons.dev/icons?i=netlify" height="50" alt="netlify logo"  /></code>
   <img width="0" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo"  />
+  <code><img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo"  /></code>
   <img width="0" />
-  <img src="https://skillicons.dev/icons?i=md" height="50" alt="markdown logo"  />
+  <code><img src="https://skillicons.dev/icons?i=md" height="50" alt="markdown logo"  /></code>
   <img width="0" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
+  <code><img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  /></code>
   <img width="0" />
-  <img src="https://skillicons.dev/icons?i=electron" height="50" alt="electron logo"  />
+  <code><img src="https://skillicons.dev/icons?i=electron" height="50" alt="electron logo"  /></code>
   <img width="0" />
-  <img src="https://skillicons.dev/icons?i=stackoverflow" height="50" alt="stackoverflow logo"  />
+  <code><img src="https://skillicons.dev/icons?i=stackoverflow" height="50" alt="stackoverflow logo"  /></code>
 </div>
 
 <br>
