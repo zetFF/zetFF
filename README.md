@@ -66,78 +66,7 @@
 
 </div>
 
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-</div>
-
-<img align="center" width="1000" src="https://octodex.github.com/images/daftpunktocat-thomas.gif"  />
-
 <br>
-
-###
-
-<p align="left">- 🔭 field work practice at PT Globalintermedia Nusantara<br><br>- 📚 my experience learning about the world of Frontend Developer in the world of Website programming using the Vue JS Framework.<br><br>- ⚡ My mainstay in the world of Frontend web developers is an easy combination of Frameworks and using Tailwind CSS.<br><br>- 🏆️ won first place at the city level in the Website Design competition.<br><br>- 🎸🥁 an All Role in band music instrument playing.</p>
-
-###
-
-<br>
-
-<br>
-
-<img align="center" width="1000" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  />
-
-<h2 align="center">🔥   My Stats  🔥</h2>
-
-###
-
-<br>
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=zetFF&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5" height="140" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zetFF&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=react&hide_border=true" height="140" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zetFF&hide_border=true&theme=react" height="140" alt="activity-graph graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=zetFF&theme=tokyonight&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-###
-
-###
-
-###
-
-<!-- Dark Mode -->
-
-
-###
-
-<br>
-
-<br>
-
-<h3 align="center">Priority Tools and Language</h3>
-
-<div align="center">
-    <img align="center" width="100" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif"  />
-    <img align="center" width="100" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif"  />
-    <img align="center" width="100" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif"  />
-    <img align="center" width="100" src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif"  />
-    <img align="center" width="100" src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif"  />
-    <img align="center" width="100" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif"  />
-</div>
-
-
-<br>
-
 <img align="center" width="1000" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  />
 
 <br>
@@ -249,6 +178,80 @@
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+</div>
+
+<img align="center" width="1000" src="https://octodex.github.com/images/daftpunktocat-thomas.gif"  />
+
+<br>
+
+###
+
+<p align="left">- 🔭 field work practice at PT Globalintermedia Nusantara<br><br>- 📚 my experience learning about the world of Frontend Developer in the world of Website programming using the Vue JS Framework.<br><br>- ⚡ My mainstay in the world of Frontend web developers is an easy combination of Frameworks and using Tailwind CSS.<br><br>- 🏆️ won first place at the city level in the Website Design competition.<br><br>- 🎸🥁 an All Role in band music instrument playing.</p>
+
+###
+
+<br>
+
+<br>
+
+<img align="center" width="1000" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  />
+
+<h2 align="center">🔥   My Stats  🔥</h2>
+
+###
+
+<br>
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=zetFF&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5" height="140" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zetFF&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=react&hide_border=true" height="140" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zetFF&hide_border=true&theme=react" height="140" alt="activity-graph graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=zetFF&theme=tokyonight&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+###
+
+###
+
+###
+
+<!-- Dark Mode -->
+
+
+###
+
+<br>
+
+<br>
+
+<h3 align="center">Priority Tools and Language</h3>
+
+<div align="center">
+    <img align="center" width="100" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif"  />
+    <img align="center" width="100" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif"  />
+    <img align="center" width="100" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif"  />
+    <img align="center" width="100" src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif"  />
+    <img align="center" width="100" src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif"  />
+    <img align="center" width="100" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif"  />
+</div>
+
+
+<br>
+
+
 
 <br>
 
