@@ -209,9 +209,7 @@
 
 <img align="center" width="1000" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  />
 
-<h1 align="center" ><img src="![image](https://github.com/user-attachments/assets/a87083a2-00b0-4673-868d-c8c6b93885bf)
-" width="28">My Stat <img src="![image](https://github.com/user-attachments/assets/e17ca17e-7f5b-4cc2-868b-d2f835bd828a)
-" width="28"></h1>
+<h1 align="center" >This<img src="![image](https://github.com/user-attachments/assets/93a0384c-d4b7-4892-b91c-ab89d1edb5ec)" width="28">My StatisticO</h1>
 
 ###
 
