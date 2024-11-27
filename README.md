@@ -212,7 +212,10 @@
   <img src="https://streak-stats.demolab.com?user=zetFF&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5" height="120" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zetFF&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=react&hide_border=true" height="120" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zetFF&hide_border=true&theme=react" height="120" alt="activity-graph graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=zetFF&theme=tokyonight" height="150" alt="trophy graph"  />
 </div>
+
+###
 
 ###
 
