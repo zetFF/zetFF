@@ -46,6 +46,10 @@
 
 ###
 
+<div align="center">
+    <img align="center" width="100" src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png"  />
+</div>
+
 <h1 align="center">Profile & Social Media</h1>
 <p align="center">
     <a href="https://github.com/zetFF/" target="_blank">
@@ -357,9 +361,7 @@
 
 <br>
 
-<div align="center">
-    <img align="center" width="100" src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png"  />
-</div>
+
 
 <br>
 
