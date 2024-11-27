@@ -209,7 +209,7 @@
 
 <img align="center" width="1000" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  />
 
-<h1 align="center" >This<img src="![image](https://github.com/user-attachments/assets/93a0384c-d4b7-4892-b91c-ab89d1edb5ec)" width="28">My StatisticO</h1>
+<h1 align="center" >This<img src="https://media1.giphy.com/media/47GPQ7ZzivsemHKPvB/giphy.gif?cid=6c09b952mrbht6poigh2ozcc30t559bar2suc7c9wf7v0d5d&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="28">My Statistic</h1>
 
 ###
 
