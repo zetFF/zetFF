@@ -42,6 +42,29 @@
 ###
 
 <h1 align="center">Profile & Social Media</h1>
+<p align="center">
+    <a href="https://github.com/zetFF/" target="_blank">
+        <img src="https://komarev.com/ghpvc/?username=zetFF&label=Profile%20views&color=000000&style=flat-square" alt="view profile"/>
+    </a>
+    <a href="https://github.com/zetFF/" target="_blank">
+        <img src="https://visitcount.itsvg.in/api?id=zetFF&icon=0&color=0" />
+    </a>
+    <a href="https://github.com/zetFF/" target="_blank">
+        <img src="https://img.shields.io/badge/Age-18 th-black" alt="umur"/>
+    </a>
+   <a href="https://github.com/zetFF/" target="_blank">
+        <img src="https://badges.pufler.dev/Years/zetFF?style=flat-square&color=000000" />
+    </a>
+    <a href="https://github.com/zetFF/" target="_blank">
+        <img src="https://badges.pufler.dev/repos/zetFF?style=flat-square&color=000000" />
+     </a>
+   <a href="https://github.com/zetFF/" target="_blank">
+        <img src="https://img.shields.io/github/followers/zetFF?style=social" alt="GitHub followers"/>
+   </a>
+  <a href="https://github.com/zetFF/" target="_blank">
+        <img src="https://img.shields.io/github/stars/zetFF?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub User's stars"/>
+  </a>
+</p>
 
 ###
 
@@ -294,29 +317,7 @@
 <h1 align="center">Hello Everyone, im Zeeta Website Developer</h1>
 
 
-<p align="center">
-    <a href="https://github.com/zetFF/" target="_blank">
-        <img src="https://komarev.com/ghpvc/?username=zetFF&label=Profile%20views&color=000000&style=flat-square" alt="view profile"/>
-    </a>
-    <a href="https://github.com/zetFF/" target="_blank">
-        <img src="https://visitcount.itsvg.in/api?id=zetFF&icon=0&color=0" />
-    </a>
-    <a href="https://github.com/zetFF/" target="_blank">
-        <img src="https://img.shields.io/badge/Age-18 th-black" alt="umur"/>
-    </a>
-   <a href="https://github.com/zetFF/" target="_blank">
-        <img src="https://badges.pufler.dev/Years/zetFF?style=flat-square&color=000000" />
-    </a>
-    <a href="https://github.com/zetFF/" target="_blank">
-        <img src="https://badges.pufler.dev/repos/zetFF?style=flat-square&color=000000" />
-     </a>
-   <a href="https://github.com/zetFF/" target="_blank">
-        <img src="https://img.shields.io/github/followers/zetFF?style=social" alt="GitHub followers"/>
-   </a>
-  <a href="https://github.com/zetFF/" target="_blank">
-        <img src="https://img.shields.io/github/stars/zetFF?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub User's stars"/>
-  </a>
-</p>
+
 
 
 
