@@ -113,7 +113,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=zetFF&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zetFF&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=react&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=zetFF&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zetFF&radius=16&theme=react&area=true&order=5&hide_border=true" height="150" alt="activity-graph graph"  />
+   <img src="https://github-profile-trophy.vercel.app?username=zetFF&theme=tokyonight&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
 </div>
 
 ###
@@ -531,7 +531,7 @@
   <img src="https://streak-stats.demolab.com?user=zetFF&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5" height="140" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zetFF&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=react&hide_border=true" height="140" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zetFF&hide_border=true&theme=react" height="140" alt="activity-graph graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=zetFF&theme=tokyonight&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
+
 </div>
 
 ###
