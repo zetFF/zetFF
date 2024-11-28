@@ -103,11 +103,8 @@
     <a href="https://github.com/zetFF/" target="_blank">
         <img src="https://img.shields.io/github/stars/zetFF?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub User's stars"/>
     </a>
-    <a href="https://github.com/zetFF/" target="_blank">
-        <img src="https://wakatime.com/badge/github/zetFF/zetFF.svg?raw=true" alt="Wakatime-1"/>
-    </a>
        <a href="https://github.com/zetFF/" target="_blank">
-        <img src="https://img.shields.io/badge/isAwesome-true-blue?style=flat-square&color=000000" alt="zetFF"/>
+        <img src="https://img.shields.io/badge/Good-true-blue?style=flat-square&color=000000" alt="zetFF"/>
     </a>
 </p>
 
