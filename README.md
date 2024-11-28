@@ -43,12 +43,12 @@
 
 <p align="center">I am a bassist player in a band called (MelodicNine). this is my second career path, I really like music. <br>from the beginning I played Bass guitar, <br>until I am now an All Role of all musical instruments.</p>
 
-<br>
 
 <div align="center">
   <img height="12" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  />
 </div>
 
+<br>
 
 <div align="center">
     <img align="center" width="100" src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png"  />
