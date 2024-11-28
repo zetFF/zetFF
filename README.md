@@ -133,7 +133,6 @@
 
 <h4 align="center">Priority Tools and Language</h4>
 
-<br>
 
 <div align="center">
     <img align="center" width="50" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif"  />
@@ -143,6 +142,8 @@
     <img align="center" width="50" src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif"  />
     <img align="center" width="50" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif"  />
 </div>
+
+<br>
 
 <div align="center">
   <img height="170" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"  />
