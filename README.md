@@ -113,39 +113,6 @@
   <img height="12" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  />
 </div>
 
-###
-
-<h2 align="center">🔥 My Stat 🔥</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zetFF&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zetFF&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=react&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=zetFF&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-   <img src="https://github-profile-trophy.vercel.app?username=zetFF&theme=tokyonight&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="12" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="1000" src="https://octodex.github.com/images/daftpunktocat-thomas.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="12" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  />
-</div>
-
-###
-
 <h2 align="center">⚙️Language and Tools⚙️</h2>
 
 ###
@@ -236,6 +203,41 @@
     <img align="center" width="50" src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif"  />
     <img align="center" width="50" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif"  />
 </div>
+
+###
+
+<h2 align="center">🔥 My Stat 🔥</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zetFF&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zetFF&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=react&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=zetFF&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+   <img src="https://github-profile-trophy.vercel.app?username=zetFF&theme=tokyonight&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="12" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="1000" src="https://octodex.github.com/images/daftpunktocat-thomas.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="12" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  />
+</div>
+
+###
+
+
 
 ###
 
