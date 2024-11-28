@@ -8,6 +8,36 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=zetFF.zetFF&left_text=Hello%20Everyone"  />
 </div>
 
+<p align="center">
+    <a href="https://github.com/zetFF/" target="_blank">
+        <img src="https://komarev.com/ghpvc/?username=zetFF&label=Profile%20views&color=000000&style=flat-square" alt="view profile"/>
+    </a>
+    <a href="https://github.com/zetFF/" target="_blank">
+        <img src="https://visitcount.itsvg.in/api?id=zetFF&icon=0&color=0" alt="Profile view"/>
+    </a>
+    <a href="https://github.com/zetFF/" target="_blank">
+        <img src="https://img.shields.io/badge/Age-18 th-black" />
+    </a>
+    <a href="https://github.com/zetFF/" target="_blank">
+        <img src="https://badges.pufler.dev/Years/zetFF?style=flat-square&color=000000" alt="Years Badge"/>
+    </a>
+    <a href="https://github.com/zetFF/" target="_blank">
+        <img src="https://badges.pufler.dev/repos/zetFF?style=flat-square&color=000000" alt="Repos Badge"/>
+     </a>
+    <a href="https://github.com/zetFF/" target="_blank">
+        <img src="https://badges.pufler.dev/gists/zetFF?style=flat-square&color=000000" alt="Gists Badge"/>
+    </a> 
+    <br>
+    <a href="https://github.com/zetFF/" target="_blank">
+        <img src="https://img.shields.io/github/followers/zetFF?style=social" alt="GitHub followers"/>
+    </a>
+    <a href="https://github.com/zetFF/" target="_blank">
+        <img src="https://img.shields.io/github/stars/zetFF?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub User's stars"/>
+    </a>
+       <a href="https://github.com/zetFF/" target="_blank">
+        <img src="https://img.shields.io/badge/Good-true-blue?style=flat-square&color=000000" alt="zetFF"/>
+    </a>
+</p>
 
 <h1 align="center">🧑 Hello, im Zeeta</h1>
 
@@ -54,41 +84,9 @@
     <img align="center" width="100" src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png"  />
 </div>
 
-<h1 align="center">Profile & Social Media</h1>
+<h1 align="center">Social Media</h1>
 
 <br>
-
-<p align="center">
-    <a href="https://github.com/zetFF/" target="_blank">
-        <img src="https://komarev.com/ghpvc/?username=zetFF&label=Profile%20views&color=000000&style=flat-square" alt="view profile"/>
-    </a>
-    <a href="https://github.com/zetFF/" target="_blank">
-        <img src="https://visitcount.itsvg.in/api?id=zetFF&icon=0&color=0" alt="Profile view"/>
-    </a>
-    <a href="https://github.com/zetFF/" target="_blank">
-        <img src="https://img.shields.io/badge/Age-18 th-black" />
-    </a>
-    <a href="https://github.com/zetFF/" target="_blank">
-        <img src="https://badges.pufler.dev/Years/zetFF?style=flat-square&color=000000" alt="Years Badge"/>
-    </a>
-    <a href="https://github.com/zetFF/" target="_blank">
-        <img src="https://badges.pufler.dev/repos/zetFF?style=flat-square&color=000000" alt="Repos Badge"/>
-     </a>
-    <a href="https://github.com/zetFF/" target="_blank">
-        <img src="https://badges.pufler.dev/gists/zetFF?style=flat-square&color=000000" alt="Gists Badge"/>
-    </a> 
-    <br>
-    <a href="https://github.com/zetFF/" target="_blank">
-        <img src="https://img.shields.io/github/followers/zetFF?style=social" alt="GitHub followers"/>
-    </a>
-    <a href="https://github.com/zetFF/" target="_blank">
-        <img src="https://img.shields.io/github/stars/zetFF?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub User's stars"/>
-    </a>
-       <a href="https://github.com/zetFF/" target="_blank">
-        <img src="https://img.shields.io/badge/Good-true-blue?style=flat-square&color=000000" alt="zetFF"/>
-    </a>
-</p>
-
 <br>
 
 <div align="center">
