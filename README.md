@@ -233,7 +233,7 @@
 
 ###
 
-<h2 align="center">🔥 My Stat 🔥</h2>
+<h2 align="center">🔥 Statistic 🔥</h2>
 
 ###
 
