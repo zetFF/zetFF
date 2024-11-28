@@ -40,9 +40,7 @@
 
 <br>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=zetFF.zetFF&left_text=Hello%20Everyone"  />
-</div>
+
 
 <div align="center">
     <img align="center" width="100" src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png"  />
@@ -97,7 +95,9 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="55" height="40" alt="twitter logo"  />
 </div>
 
-
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=zetFF.zetFF&left_text=Hello%20Everyone"  />
+</div>
 ###
 
 <div align="center">
