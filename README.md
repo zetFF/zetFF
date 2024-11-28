@@ -4,6 +4,9 @@
 
 <br>
 
+<div align="center">
+    <img align="center" width="100" src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png"  />
+</div>
 
 <p align="center">
     |
@@ -86,9 +89,6 @@
 
 <br>
 
-<div align="center">
-    <img align="center" width="100" src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png"  />
-</div>
 
 <h1 align="center">Social Media</h1>
 
