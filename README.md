@@ -4,9 +4,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=zetFF.zetFF&left_text=Hello%20Everyone"  />
-</div>
 
 <p align="center">
     <a href="https://github.com/zetFF/" target="_blank">
