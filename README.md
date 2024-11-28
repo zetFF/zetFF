@@ -98,7 +98,7 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=zetFF.zetFF&left_text=Hello%20Everyone"  />
 </div>
-###
+
 
 <div align="center">
   <img height="12" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  />
@@ -106,30 +106,11 @@
 
 <br>
 
-
 <div align="center">
   <img height="1000" src="https://octodex.github.com/images/daftpunktocat-thomas.gif"  />
 </div>
 
-###
 
-
-
-
-
-###
-
-
-
-###
-
-
-
-###
-
-
-
-###
 
 <div align="center">
   <img height="12" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  />
