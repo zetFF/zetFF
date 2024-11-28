@@ -146,7 +146,6 @@
 
 <div align="center">
     <code><img src="https://skillicons.dev/icons?i=astro" height="27" alt="astro logo"  /></code>
-      <img width="0" />
       <code><img src="https://skillicons.dev/icons?i=bootstrap" height="27" alt="bootstrap logo"  /></code>
       <img width="0" />
       <code><img src="https://skillicons.dev/icons?i=cloudflare" height="27" alt="cloudflare logo"  /></code>
