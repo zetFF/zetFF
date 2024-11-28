@@ -6,34 +6,43 @@
 
 
 <p align="center">
+    |
     <a href="https://github.com/zetFF/" target="_blank">
         <img src="https://komarev.com/ghpvc/?username=zetFF&label=Profile%20views&color=000000&style=flat-square" alt="view profile"/>
     </a>
+    |
     <a href="https://github.com/zetFF/" target="_blank">
         <img src="https://visitcount.itsvg.in/api?id=zetFF&icon=0&color=0" alt="Profile view"/>
     </a>
+    |
     <a href="https://github.com/zetFF/" target="_blank">
         <img src="https://img.shields.io/badge/Age-18 th-black" />
     </a>
+    |
     <a href="https://github.com/zetFF/" target="_blank">
         <img src="https://badges.pufler.dev/Years/zetFF?style=flat-square&color=000000" alt="Years Badge"/>
     </a>
+    |
     <a href="https://github.com/zetFF/" target="_blank">
         <img src="https://badges.pufler.dev/repos/zetFF?style=flat-square&color=000000" alt="Repos Badge"/>
      </a>
+    |
     <a href="https://github.com/zetFF/" target="_blank">
         <img src="https://badges.pufler.dev/gists/zetFF?style=flat-square&color=000000" alt="Gists Badge"/>
     </a> 
-    <br>
+    |
     <a href="https://github.com/zetFF/" target="_blank">
         <img src="https://img.shields.io/github/followers/zetFF?style=social" alt="GitHub followers"/>
     </a>
+    |
     <a href="https://github.com/zetFF/" target="_blank">
         <img src="https://img.shields.io/github/stars/zetFF?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub User's stars"/>
     </a>
+    |
        <a href="https://github.com/zetFF/" target="_blank">
         <img src="https://img.shields.io/badge/Good-true-blue?style=flat-square&color=000000" alt="zetFF"/>
     </a>
+    |
 </p>
 
 <h1 align="center">🧑 Hello, im Zeeta</h1>
