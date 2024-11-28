@@ -212,7 +212,7 @@
   <img src="https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=black&style=for-the-badge" height="30" alt="astro logo"  />
 </div>
 
-<div align="center">
+<!-- <div align="center">
     <code><img src="https://skillicons.dev/icons?i=astro" height="35" alt="astro logo"  /></code>
       <code><img src="https://skillicons.dev/icons?i=bootstrap" height="35" alt="bootstrap logo"  /></code>
       <code><img src="https://skillicons.dev/icons?i=cloudflare" height="35" alt="cloudflare logo"  /></code>
@@ -245,7 +245,7 @@
       <code><img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo"  /></code>
       <code><img src="https://skillicons.dev/icons?i=electron" height="35" alt="electron logo"  /></code>
       <code><img src="https://skillicons.dev/icons?i=stackoverflow" height="35" alt="stackoverflow logo"  /></code>
-    </div>
+    </div> -->
 
 <br>
 
