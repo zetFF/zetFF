@@ -93,7 +93,6 @@
 <h1 align="center">Social Media</h1>
 
 <br>
-<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/zeetafrontdev/" target="_blank">
