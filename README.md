@@ -73,33 +73,6 @@
   </a>
 </p>
 
-###
-
-<div align="center">
-  <img height="12" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  />
-</div>
-
-<br>
-
-
-<div align="center">
-  <img height="1000" src="https://octodex.github.com/images/daftpunktocat-thomas.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="12" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  />
-</div>
-
-
-
-###
-
-
-
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/zeetafrontdev/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="40" alt="linkedin logo"  />
@@ -117,6 +90,33 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="55" height="40" alt="telegram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="55" height="40" alt="twitter logo"  />
 </div>
+
+###
+
+<div align="center">
+  <img height="12" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  />
+</div>
+
+<br>
+
+
+<div align="center">
+  <img height="1000" src="https://octodex.github.com/images/daftpunktocat-thomas.gif"  />
+</div>
+
+###
+
+
+
+
+
+###
+
+
+
+###
+
+
 
 ###
 
