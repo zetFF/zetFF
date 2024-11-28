@@ -2,6 +2,10 @@
     <img align="center" width="1000" src="https://img.itch.zone/aW1nLzE0NTcxNzI0LmdpZg==/original/UhlyUh.gif"  />
 </div>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=zetFF.zetFF&left_text=Hello%20Everyone"  />
+</div>
+
 <br>
 
 <h1 align="center">🧑 Hello, im Zeeta</h1>
@@ -100,9 +104,7 @@
 
 <br>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=zetFF.zetFF&left_text=Hello%20Everyone"  />
-</div>
+
 
 <br>
 
