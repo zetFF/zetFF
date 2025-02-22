@@ -17,10 +17,6 @@
     </a>
     |
     <a href="https://github.com/zetFF/" target="_blank">
-        <img src="https://visitcount.itsvg.in/api?id=zetFF&icon=0&color=0" alt="Profile view"/>
-    </a>
-    |
-    <a href="https://github.com/zetFF/" target="_blank">
         <img src="https://img.shields.io/badge/Age-18 th-black" />
     </a>
     |
