@@ -129,7 +129,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"  />
+  <img height="220" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"  />
 </div>
 
 <h4 align="center">Priority Tools and Language</h4>
