@@ -183,7 +183,7 @@
 
 ###
 
-<h2 align="center">🎵 Music Favorite 🎵</h2>
+<h2 align="center">🎵 Music 🎵</h2>
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31yco6mkeps3ryd5dm6mrm33tobi&unique={true|1|on|yes}" alt="Recently Played" />
 </p>
