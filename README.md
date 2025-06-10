@@ -68,15 +68,13 @@
 
 ###
 
-<p align="center">My passion for learning about the world of Programming is very meaningful, with time, I always exploit in the digital world,<br>regarding Website Programming to the creation of Mobile applications. <br>but I am currently focusing on the Frontend Dev</p>
+<p align="center">was very interested in learning about the world of websites. As time goes by, I continue to explore the world of websites, especially in the field of web programming.</p>
 
 ###
 
 <p align="center">we are very happy that you have visited our profile.<br>don't forget to follow this account and let us collaborate for self-development and the <br>development of the Digital era. thank you</p>
 
 ###
-
-<p align="center">I am a bassist player in a band called (MelodicNine). this is my second career path, I really like music. <br>from the beginning I played Bass guitar, <br>until I am now an All Role of all musical instruments.</p>
 
 
 <div align="center">
