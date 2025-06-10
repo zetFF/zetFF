@@ -60,7 +60,7 @@
 
 ###
 
-<p align="center">My hobby is to play all musical instruments when I have free time.🥁🎸🎻🪕🎷🎹<br><br>🎶my soul is Metalrock, Metalcore, Hardcore🎶</p>
+<p align="center">My hobby is to play all musical instruments when I have free time.🥁🎸🎻🪕🎷🎹<br><br>🎶Metalrock, Metalcore, Hardcore🎶</p>
 
 ###
 
