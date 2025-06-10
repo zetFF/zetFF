@@ -44,11 +44,11 @@
     |
 </p>
 
-<h1 align="center">🧑 Hello, im Zeeta</h1>
+<h1 align="center">🧑 Hello, im Afkar Ezi</h1>
 
 ###
 
-<h2 align="center">👨‍💻 I became a Website Developer</h2>
+<h2 align="center">👨‍💻 I am FrontEnd Web Developer</h2>
 
 ###
 
