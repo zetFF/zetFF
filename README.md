@@ -76,17 +76,7 @@
 
 ###
 
-
-<div align="center">
-  <img height="12" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  />
-</div>
-
-<br>
-
-
 <h2 align="center">Social Media</h2>
-
-<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/zeetafrontdev/" target="_blank">
@@ -102,13 +92,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="35" alt="instagram logo"  />
   </a>
 </div>
-
-<br>
-
-
-
-<br>
-
 
 <div align="center">
   <img height="12" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  />
