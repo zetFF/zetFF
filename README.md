@@ -196,11 +196,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/grufoony/grufoony/output/github-contribution-grid-snake-dark.svg"  />
-</div>
-
-###
 
 
 
