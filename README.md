@@ -15,20 +15,8 @@
     </a>
     |
     <a href="https://github.com/zetFF/" target="_blank">
-        <img src="https://img.shields.io/badge/Age-18 th-black" />
+        <img src="https://img.shields.io/badge/Age-19 th-black" />
     </a>
-    |
-    <a href="https://github.com/zetFF/" target="_blank">
-        <img src="https://badges.pufler.dev/Years/zetFF?style=flat-square&color=000000" alt="Years Badge"/>
-    </a>
-    |
-    <a href="https://github.com/zetFF/" target="_blank">
-        <img src="https://badges.pufler.dev/repos/zetFF?style=flat-square&color=000000" alt="Repos Badge"/>
-     </a>
-    |
-    <a href="https://github.com/zetFF/" target="_blank">
-        <img src="https://badges.pufler.dev/gists/zetFF?style=flat-square&color=000000" alt="Gists Badge"/>
-    </a> 
     |
     <a href="https://github.com/zetFF/" target="_blank">
         <img src="https://img.shields.io/github/followers/zetFF?style=social" alt="GitHub followers"/>
