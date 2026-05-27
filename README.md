@@ -143,24 +143,13 @@
 ###
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
-    <tr>
-      <td align="center" valign="top" style="border: none; padding: 6px;">
-        <img src="https://raw.githubusercontent.com/zetFF/zetFF/stats-output/stats.svg" height="150" alt="stats graph" />
-      </td>
-      <td align="center" valign="top" style="border: none; padding: 6px;">
-        <img src="https://raw.githubusercontent.com/zetFF/zetFF/languages-output/languages.svg" height="150" alt="languages graph" />
-      </td>
-      <td align="center" valign="top" style="border: none; padding: 6px;">
-        <img src="https://streak-stats.demolab.com?user=zetFF&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" colspan="3" style="border: none; padding-top: 15px;">
-        <img src="https://raw.githubusercontent.com/zetFF/zetFF/activity-graph-output/activity-graph.svg" width="100%" alt="activity-graph graph" />
-      </td>
-    </tr>
-  </table>
+  <!-- Baris 1: 3 Kolom Sejajar (Pastikan kode ini ditulis menyambung/satu baris agar tidak patah) -->
+  <img src="https://raw.githubusercontent.com/zetFF/zetFF/stats-output/stats.svg" height="150" alt="stats graph" /> <img src="https://raw.githubusercontent.com/zetFF/zetFF/languages-output/languages.svg" height="150" alt="languages graph" /> <img src="https://streak-stats.demolab.com?user=zetFF&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" />
+
+  <br /><br />
+
+  <!-- Baris 2: 1 Kolom Besar Sendiri -->
+  <img src="https://raw.githubusercontent.com/zetFF/zetFF/activity-graph-output/activity-graph.svg" width="100%" alt="activity-graph graph" />
 </div>
 
 ###
