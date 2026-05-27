@@ -143,19 +143,10 @@
 ###
 
 <div align="center">
-  <!-- Baris 1: Grafik Stats & Languages (Sangat pas jika disandingkan berdua) -->
-  <img src="https://raw.githubusercontent.com/zetFF/zetFF/stats-output/stats.svg" height="150" alt="stats graph" />
-  <img src="https://raw.githubusercontent.com/zetFF/zetFF/languages-output/languages.svg" height="150" alt="languages graph" />
-  
-  <br /><br />
-
-  <!-- Baris 2: Streak Stats (Ditaruh di tengah agar simetris) -->
-  <img src="https://streak-stats.demolab.com?user=zetFF&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  
-  <br /><br />
-
-  <!-- Baris 3: Activity Graph (Grafik ini melebar, jadi lebih rapi jika berdiri sendiri) -->
-  <img src="https://raw.githubusercontent.com/zetFF/zetFF/activity-graph-output/activity-graph.svg" width="100%" max-width="850" alt="activity-graph graph" />
+  <img src="https://raw.githubusercontent.com/zetFF/zetFF/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/zetFF/zetFF/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=zetFF&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/zetFF/zetFF/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
