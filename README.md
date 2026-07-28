@@ -76,7 +76,7 @@
 <h2 align="center">🎬 Multimedia Direction Experience</h2>
  
 <p align="center">
-I have experience as a Multimedia Director for podcasts, talk shows, seminars, and Islamic events.
+I have experience as a Multimedia Director for podcasts, talk shows, seminars, and Islamic events. <br>
 I'm skilled in using OBS Studio, vMix, and other house production software for live production needs.
 </p>
 
