@@ -67,10 +67,11 @@
 <h2 align="center"> 🎸 Bassist in a Band</h2>
 
  
-###
+
  
 <p align="center">I've always been passionate about learning the world of websites. Over time, I've continued to explore web development, especially in the field of web programming.</p>
 
+###
  
 <h2 align="center">🎬 Multimedia Direction Experience</h2>
  
