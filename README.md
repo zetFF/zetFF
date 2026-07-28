@@ -1,8 +1,36 @@
-<div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://avatars.githubusercontent.com/u/189728939?v=4"  />
+<br>
+
+<div align="center">
+    <img align="center" width="100" src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png"  />
 </div>
 
-###
+<br>
+
+<p align="center">
+    <a href="https://github.com/zetFF/" target="_blank">
+        <img src="https://komarev.com/ghpvc/?username=zetFF&label=Profile%20views&color=000000&style=flat-square" alt="view profile"/>
+    </a>
+    &nbsp;
+    <a href="https://github.com/zetFF/" target="_blank">
+        <img src="https://img.shields.io/badge/Age-20th-black" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/zetFF/" target="_blank">
+        <img src="https://img.shields.io/github/followers/zetFF?style=social" alt="GitHub followers"/>
+    </a>
+    &nbsp;
+    <a href="https://github.com/zetFF/" target="_blank">
+        <img src="https://img.shields.io/github/stars/zetFF?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub User's stars"/>
+    </a>
+    &nbsp;
+    <a href="https://github.com/zetFF/" target="_blank">
+        <img src="https://img.shields.io/badge/Good-true-blue?style=flat-square&color=000000" alt="zetFF"/>
+    </a>
+</p>
+
+<h1 align="center">🧑 Hello, I'm Afkar Ezi</h1>
+
+<h2 align="center">👨‍💻 Front-End Web Developer</h2>
 
 <h1 data-importer="text" align="center">Hello, Im Afkar Ezi ✌</h1>
 
