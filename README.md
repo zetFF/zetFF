@@ -32,12 +32,6 @@
 
 <h2 align="center">👨‍💻 Front-End Web Developer</h2>
 
-<h1 data-importer="text" align="center">Hello, Im Afkar Ezi ✌</h1>
-
-###
-
-<h3 data-importer="text" align="center">Im Frontend Dev, from Indonesia</h3>
-
 ###
 
 <p data-importer="text" align="center">Passionate about the world of the web  I keep exploring, especially in web programming. Thanks for stopping by my profile! Feel free to follow and let's collaborate for self-development and the growth of the digital era.</p>
