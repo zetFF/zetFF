@@ -1,74 +1,55 @@
-<br>
-<div align="center">
-    <img align="center" width="100" src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png"  />
-</div>
-
-<h2 align="center">My Github Profile</h2>
-
-<br>
+<!-- Logo -->
 <p align="center">
-    |
-    <a href="https://github.com/zetFF/" target="_blank">
-        <img src="https://komarev.com/ghpvc/?username=zetFF&label=Profile%20views&color=000000&style=flat-square" alt="view profile"/>
-    </a>
-    |
-    <a href="https://github.com/zetFF/" target="_blank">
-        <img src="https://img.shields.io/badge/Age-20 th-black" />
-    </a>
-    |
-    <a href="https://github.com/zetFF/" target="_blank">
-        <img src="https://img.shields.io/github/followers/zetFF?style=social" alt="GitHub followers"/>
-    </a>
-    |
-    <a href="https://github.com/zetFF/" target="_blank">
-        <img src="https://img.shields.io/github/stars/zetFF?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub User's stars"/>
-    </a>
-    |
-       <a href="https://github.com/zetFF/" target="_blank">
-        <img src="https://img.shields.io/badge/Good-true-blue?style=flat-square&color=000000" alt="zetFF"/>
-    </a>
-    |
+  <img width="250" src="https://avatars.githubusercontent.com/u/87259393?v=4" />  
+  <h2 align="center"> My Github Profile </h2>
+  <p align="center">🏆 Achievements In Writing program Code 🏆</p>
 </p>
+<!-- End -->
 
- 
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="discord logo"  />
-  <a href="https://youtube.com/@framediapro?si=NSE02zJg5QWvs95M" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="youtube logo"  />
+<!-- Issue -->
+<p align="center">
+  <a href="https://github.com/bagussatoto/bagussatoto/issues">
+    <img src="https://img.shields.io/github/issues/ryo-ma/github-profile-trophy"/>
   </a>
-  <a href="https://www.instagram.com/zzz_3t44/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="instagram logo"  />
+  <a href="https://www.codewars.com/users/bagussatoto/badges/micro">
+    <img src="https://www.codewars.com/users/bagussatoto/badges/micro"/>
   </a>
-  <a href="https://open.spotify.com/playlist/7lW2ntIpzzhcHDqBLYkxFJ?si=7ed9554eedf44d6d" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=for-the-badge" height="24" alt="spotify logo"  />
+  <a href="https://github.com/bagussatoto/bagussatoto/network/members">
+    <img src="https://img.shields.io/github/forks/ryo-ma/github-profile-trophy"/>
+  </a>  
+  <a href="https://github.com/bagussatoto/bagussatoto/stargazers">
+    <img src="https://img.shields.io/github/stars/ryo-ma/github-profile-trophy"/>
   </a>
-  <a href="mailto:ebdtv4@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="gmail logo"  />
+    <a href="https://github.com/bagussatoto/bagussatoto/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/bagussatoto/github-profile-trophy"/>
   </a>
-</div>
+</p>
+<!-- End -->
+
+<!-- Name Pack -->
+<p align="center">
+<a href="https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Indonesia+Software+Engineer;Open-Source+Developer+Advocate;Cybersecurity+Researcher;and+Technopreneur!;Nice+to+meet+you...">
+  <img src="https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Indonesia+Software+Engineering;Open+Source+Developer+Advocate;Web+Developer+Get+Front+End+Dev;Technical+Network+Engineering;Technical+Support+Engineering;Technical+Internet+Enginnering;Data+Base+Administrator+Telkom" />
+</a><br>
+<!-- End -->
+
+<!-- Profile -->
+<h1 align="center" > Hii <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm BAGUS BUDI SATOTO</h1>
+<h2 align="center"> 📌 I'm a student at Universitas Amikom Yogyakarta, Indonesia.</h2>
+<h2 align="center">  Major Bachelor of Informatics.</h2>
+<h3 align="center"> 🧑🏽‍💻 Data Protection Officer - Gama Multi Group </h3>
+<h3 align="center"> 🖥️ Web Developer and Software Engineering 🖥️</h3>
+<h3 align="center"> 🔑 Computer Networks and Security 🔏</h3><br>
+<!-- End -->
+
+<!-- Garis Lurus -->
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
+<!-- End -->
 
 
-<br>
 
-<h1 align="center">🧑 Hello, I'm AFKAR EZI</h1>
- 
-###
 
-<h2 align="center"> 👨‍💻 Front-End Web Developer, UI UX Designer</h2>
 
-###
-
-<h2 align="center">🎬 Broadcast & Multimedia Direction Experience</h2>
-
-###
-
-<h2 align="center"> 🎸 Bassist in a Band</h2>
-
- 
-
-###
 
 
  
