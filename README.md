@@ -52,7 +52,7 @@
 
 <br>
 
-<h1 align="center">🧑 Hello, I'm Afkar Ezi,</h1>
+<h1 align="center">🧑 Hello, I'm Afkar Ezi, Student at STMIK El Rahma Yogyakarta</h1>
  
 ###
 
@@ -60,7 +60,7 @@
 
 ###
 
-<h2 align="center">🎬 Multimedia Director, </h2>
+<h2 align="center">🎬 Multimedia Direction Experience </h2>
 
 ###
 
