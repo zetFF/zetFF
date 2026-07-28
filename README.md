@@ -1,13 +1,8 @@
-
-
 <br>
-
 <div align="center">
     <img align="center" width="100" src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png"  />
 </div>
-
 <br>
-
 <p align="center">
     |
     <a href="https://github.com/zetFF/" target="_blank">
@@ -31,41 +26,49 @@
     </a>
     |
 </p>
-
-<h1 align="center">🧑 Hello, im Afkar Ezi</h1>
-
+<h1 align="center">🧑 Hello, I'm Afkar Ezi</h1>
+ 
 ###
-
-<h2 align="center">👨‍💻 I am FrontEnd Web Developer</h2>
-
+ 
+<h2 align="center">👨‍💻 Front-End Web Developer</h2>
+ 
 ###
-
-<h2 align="center">🎸 I'm a bassist player in a band group</h2>
-
+ 
+<h2 align="center">🎬 Multimedia Director</h2>
+ 
 ###
-
-<h4 align="center">🖥️ have participated in Cyber Security forums</h4>
-
+ 
+<h2 align="center">🎸 Bassist in a Band</h2>
+ 
 ###
-
-<p align="center">My hobby is to play all musical instruments when I have free time.🥁🎸🎻🪕🎷🎹<br><br>🎶Metalrock, Metalcore, Hardcore🎶</p>
-
+ 
+<h4 align="center">🖥️ Participant in Cyber Security Forums</h4>
+ 
 ###
-
-<h1 align="center">other my Profile</h1>
-
+ 
+<p align="center">In my free time, my hobby is playing musical instruments.🥁🎸🎻🪕🎷🎹<br><br>🎶Metal, Metalcore, Hardcore🎶</p>
 ###
-
-<p align="center">was very interested in learning about the world of websites. As time goes by, I continue to explore the world of websites, especially in the field of web programming.</p>
-
+ 
+<h1 align="center">More About Me</h1>
+ 
 ###
-
-<p align="center">we are very happy that you have visited our profile.<br>don't forget to follow this account and let us collaborate for self-development and the <br>development of the Digital era. thank you</p>
-
+ 
+<p align="center">I've always been passionate about learning the world of websites. Over time, I've continued to explore web development, especially in the field of web programming.</p>
 ###
-
+ 
+<h2 align="center">🎬 Multimedia Direction Experience</h2>
+ 
+<p align="center">
+I have experience as a Multimedia Director for podcasts, talk shows, seminars, and Islamic events.<br>
+I'm skilled in using OBS Studio, vMix, and other house production software for live production needs.
+</p>
+###
+ 
+<p align="center">Thank you so much for visiting my profile!<br>Don't forget to follow this account, and let's collaborate on self-development and the advancement of the digital era. Thank you!</p>
+###
+ 
 <h2 align="center">Social Media</h2>
-
+ 
 <div data-importer="socials" align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="twitter logo"  />
@@ -83,16 +86,13 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="gmail logo"  />
   </a>
 </div>
-
 <div align="center">
   <img height="12" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  />
 </div>
-
 <br>
-
-
-<h2 align="center">⚙️Language and Tools⚙️</h2>
-
+ 
+<h2 align="center">⚙️ Languages and Tools ⚙️</h2>
+ 
 <div align="center">
     <img align="center" width="50" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif"  />
     <img align="center" width="50" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif"  />
@@ -101,13 +101,9 @@
     <img align="center" width="50" src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif"  />
     <img align="center" width="50" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif"  />
 </div>
-
 <br>
-
-
-
 ###
-
+ 
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
@@ -133,60 +129,48 @@
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
 </div>
-
 <br>
-
 <div align="center">
   <img height="12" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  />
 </div>
-
 ###
-
-<h2 align="center">🔥 Statistic 🔥</h2>
-
+ 
+<h2 align="center">🔥 Statistics 🔥</h2>
+ 
 ###
-
+ 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zetFF&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zetFF&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=11&theme=react&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=zetFF&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zetFF&radius=16&theme=react&area=true&order=5&hide_border=true" height="150" alt="activity-graph graph"  />
 </div>
-
 ###
-
+ 
 <div align="center">
   <img height="12" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  />
 </div>
-
 ###
-
-
-
+ 
+ 
+ 
 ###
-
-
-
+ 
+ 
+ 
 ###
-
-
-
+ 
+ 
+ 
 ###
-
+ 
 <h2 align="center">🎵 Music 🎵</h2>
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31yco6mkeps3ryd5dm6mrm33tobi&unique={true|1|on|yes}" alt="Recently Played" />
 </p>
-
 ###
-
+ 
 <div align="center">
   <img height="12" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  />
 </div>
-
 ###
-
-
-
-
-
