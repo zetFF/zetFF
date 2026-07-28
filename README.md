@@ -103,6 +103,9 @@ I'm skilled in using OBS Studio, vMix, and other house production software for l
 </div>
 <br>
 
+<br>
+
+<h3 align="center">⚙️ Other Tools and language ⚙️</h3>
  
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
