@@ -51,21 +51,14 @@
 
 <br>
 
-<h1 align="center">🧑 Hello, I'm Afkar Ezi</h1>
+<h1 align="center">🧑 Hello, I'm Afkar Ezi, 👨‍💻 Front-End Web Developer</h1>
  
 ###
  
-<h2 align="center">👨‍💻 Front-End Web Developer</h2>
+
+<h2 align="center">🎬 Multimedia Director, 🎸 Bassist in a Band</h2>
  
-###
  
-<h2 align="center">🎬 Multimedia Director</h2>
- 
-###
- 
-<h2 align="center">🎸 Bassist in a Band</h2>
- 
-###
  
  
 ###
