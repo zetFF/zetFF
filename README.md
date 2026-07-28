@@ -31,20 +31,14 @@
 </p>
 
 
-<!-- Name Pack -->
-<p align="center">
-<a href="https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Indonesia+Software+Engineer;Open-Source+Developer+Advocate;Cybersecurity+Researcher;and+Technopreneur!;Nice+to+meet+you...">
-  <img src="https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Indonesia+Software+Engineer;Open-Source+Developer+Advocate;Cybersecurity+Researcher;and+Technopreneur!;Nice+to+meet+you..." />
-</a><br>
-<!-- End -->
 
 <!-- Profile -->
-<h1 align="center" > Hii <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm BAGUS BUDI SATOTO</h1>
-<h2 align="center"> 📌 I'm a student at Universitas Amikom Yogyakarta, Indonesia.</h2>
-<h2 align="center">  Major Bachelor of Informatics.</h2>
-<h3 align="center"> 🧑🏽‍💻 Data Protection Officer - Gama Multi Group </h3>
-<h3 align="center"> 🖥️ Web Developer and Software Engineering 🖥️</h3>
-<h3 align="center"> 🔑 Computer Networks and Security 🔏</h3><br>
+<h1 align="center" > Hii <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm AFKAR EZI</h1>
+<h2 align="center"> 📌 I'm a student at STMIK El Rahma Yogyakarta, Indonesia.</h2>
+<h2 align="center">  Frontend Developer</h2>
+<h3 align="center"> 🧑🏽‍💻 Multimedia Director AAID Production </h3>
+<h3 align="center"> 🖥️ Web Developer and UI UX Designer 🖥️</h3>
+<h3 align="center"> 🔑 Intermediate Experience Video Editor 🖥️</h3><br>
 <!-- End -->
 
 <!-- Garis Lurus -->
