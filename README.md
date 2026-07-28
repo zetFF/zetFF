@@ -1,6 +1,6 @@
 <!-- Logo -->
 <p align="center">
-  <img width="250" src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" />  
+  <img width="180" src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" />  
   <h2 align="center"> My Github Profile </h2>
   <p align="center">Long Time no See</p>
 </p>
