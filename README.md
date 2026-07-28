@@ -67,7 +67,6 @@
  
 ###
  
-<h1 align="center">More About Me</h1>
  
 ###
  
