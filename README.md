@@ -67,10 +67,6 @@
  
 ###
  
- 
-<p align="center">In my free time, my hobby is playing musical instruments.🥁🎸🎻🪕🎷🎹<br><br>🎶Metal, Metalcore, Hardcore🎶</p>
-
- 
 <h1 align="center">More About Me</h1>
  
 ###
