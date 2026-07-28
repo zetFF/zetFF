@@ -52,7 +52,7 @@
 
 <br>
 
-<h1 align="center">🧑 Hello, I'm Ezi, Student at STMIK El Rahma Yogyakarta</h1>
+<h1 align="center">🧑 Hello, I'm Ezi</h1>
  
 ###
 
@@ -60,7 +60,7 @@
 
 ###
 
-<h2 align="center">🎬 Multimedia Direction Experience </h2>
+<h2 align="center">🎬 Multimedia Direction Experience</h2>
 
 ###
 
