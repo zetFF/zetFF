@@ -1,30 +1,34 @@
 <!-- Logo -->
 <p align="center">
-  <img width="250" src="https://avatars.githubusercontent.com/u/87259393?v=4" />  
+  <img width="250" src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" />  
   <h2 align="center"> My Github Profile </h2>
-  <p align="center">🏆 Achievements In Writing program Code 🏆</p>
+  <p align="center">Long Time no See</p>
 </p>
 <!-- End -->
 
-<!-- Issue -->
 <p align="center">
-  <a href="https://github.com/bagussatoto/bagussatoto/issues">
-    <img src="https://img.shields.io/github/issues/ryo-ma/github-profile-trophy"/>
-  </a>
-  <a href="https://www.codewars.com/users/bagussatoto/badges/micro">
-    <img src="https://www.codewars.com/users/bagussatoto/badges/micro"/>
-  </a>
-  <a href="https://github.com/bagussatoto/bagussatoto/network/members">
-    <img src="https://img.shields.io/github/forks/ryo-ma/github-profile-trophy"/>
-  </a>  
-  <a href="https://github.com/bagussatoto/bagussatoto/stargazers">
-    <img src="https://img.shields.io/github/stars/ryo-ma/github-profile-trophy"/>
-  </a>
-    <a href="https://github.com/bagussatoto/bagussatoto/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/bagussatoto/github-profile-trophy"/>
-  </a>
+    |
+    <a href="https://github.com/zetFF/" target="_blank">
+        <img src="https://komarev.com/ghpvc/?username=zetFF&label=Profile%20views&color=000000&style=flat-square" alt="view profile"/>
+    </a>
+    |
+    <a href="https://github.com/zetFF/" target="_blank">
+        <img src="https://img.shields.io/badge/Age-20 th-black" />
+    </a>
+    |
+    <a href="https://github.com/zetFF/" target="_blank">
+        <img src="https://img.shields.io/github/followers/zetFF?style=social" alt="GitHub followers"/>
+    </a>
+    |
+    <a href="https://github.com/zetFF/" target="_blank">
+        <img src="https://img.shields.io/github/stars/zetFF?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub User's stars"/>
+    </a>
+    |
+       <a href="https://github.com/zetFF/" target="_blank">
+        <img src="https://img.shields.io/badge/Good-true-blue?style=flat-square&color=000000" alt="zetFF"/>
+    </a>
+    |
 </p>
-<!-- End -->
 
 <!-- Name Pack -->
 <p align="center">
