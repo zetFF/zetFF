@@ -86,7 +86,7 @@ I'm skilled in using OBS Studio, vMix, and other house production software for l
 </p>
 
  
-<p align="center">Thank you so much for visiting my profile!<br>Don't forget to follow this account, and let's collaborate on self-development and the advancement of the digital era. Thank you!</p>
+<p align="center">Thank you so much for visiting my profile</p>
 
  
 <br>
