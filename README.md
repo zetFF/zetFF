@@ -27,8 +27,6 @@
     |
 </p>
 
-<br>
-
 <h2 align="center">Social Media</h2>
  
 <div data-importer="socials" align="center">
