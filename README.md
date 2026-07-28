@@ -52,7 +52,7 @@
 
 <br>
 
-<h1 align="center">🧑 Hello, I'm Afkar Ezi, Student at STMIK El Rahma Yogyakarta</h1>
+<h1 align="center">🧑 Hello, I'm Ezi, Student at STMIK El Rahma Yogyakarta</h1>
  
 ###
 
