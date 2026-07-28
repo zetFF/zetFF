@@ -47,14 +47,14 @@
 ###
  
 <p align="center">In my free time, my hobby is playing musical instruments.🥁🎸🎻🪕🎷🎹<br><br>🎶Metal, Metalcore, Hardcore🎶</p>
-###
+
  
 <h1 align="center">More About Me</h1>
  
 ###
  
 <p align="center">I've always been passionate about learning the world of websites. Over time, I've continued to explore web development, especially in the field of web programming.</p>
-###
+
  
 <h2 align="center">🎬 Multimedia Direction Experience</h2>
  
@@ -62,10 +62,10 @@
 I have experience as a Multimedia Director for podcasts, talk shows, seminars, and Islamic events.<br>
 I'm skilled in using OBS Studio, vMix, and other house production software for live production needs.
 </p>
-###
+
  
 <p align="center">Thank you so much for visiting my profile!<br>Don't forget to follow this account, and let's collaborate on self-development and the advancement of the digital era. Thank you!</p>
-###
+
  
 <h2 align="center">Social Media</h2>
  
@@ -102,7 +102,7 @@ I'm skilled in using OBS Studio, vMix, and other house production software for l
     <img align="center" width="50" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif"  />
 </div>
 <br>
-###
+
  
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
@@ -133,7 +133,7 @@ I'm skilled in using OBS Studio, vMix, and other house production software for l
 <div align="center">
   <img height="12" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  />
 </div>
-###
+
  
 <h2 align="center">🔥 Statistics 🔥</h2>
  
@@ -145,12 +145,12 @@ I'm skilled in using OBS Studio, vMix, and other house production software for l
   <img src="https://streak-stats.demolab.com?user=zetFF&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zetFF&radius=16&theme=react&area=true&order=5&hide_border=true" height="150" alt="activity-graph graph"  />
 </div>
-###
+
  
 <div align="center">
   <img height="12" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  />
 </div>
-###
+
  
  
  
@@ -168,9 +168,9 @@ I'm skilled in using OBS Studio, vMix, and other house production software for l
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31yco6mkeps3ryd5dm6mrm33tobi&unique={true|1|on|yes}" alt="Recently Played" />
 </p>
-###
+
  
 <div align="center">
   <img height="12" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  />
 </div>
-###
+
