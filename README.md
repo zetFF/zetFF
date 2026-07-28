@@ -52,15 +52,15 @@
 
 <br>
 
-<h1 align="center">🧑 Hello, I'm Ezi</h1>
+<h1 align="center">🧑 Hello, I'm AFKAR EZI</h1>
  
 ###
 
-<h2 align="center"> 👨‍💻 Front-End Web Developer</h2>
+<h2 align="center"> 👨‍💻 Front-End Web Developer, UI UX Designer</h2>
 
 ###
 
-<h3 align="center">🎬 Multimedia Direction Experience</h3>
+<h3 align="center">🎬 Broadcast & Multimedia Direction Experience</h3>
 
 ###
 
