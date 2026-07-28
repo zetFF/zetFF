@@ -1,5 +1,3 @@
-
-
 <br>
 
 <div align="center">
@@ -9,62 +7,54 @@
 <br>
 
 <p align="center">
-    |
     <a href="https://github.com/zetFF/" target="_blank">
         <img src="https://komarev.com/ghpvc/?username=zetFF&label=Profile%20views&color=000000&style=flat-square" alt="view profile"/>
     </a>
-    |
+    &nbsp;
     <a href="https://github.com/zetFF/" target="_blank">
-        <img src="https://img.shields.io/badge/Age-20 th-black" />
+        <img src="https://img.shields.io/badge/Age-20th-black" />
     </a>
-    |
+    &nbsp;
     <a href="https://github.com/zetFF/" target="_blank">
         <img src="https://img.shields.io/github/followers/zetFF?style=social" alt="GitHub followers"/>
     </a>
-    |
+    &nbsp;
     <a href="https://github.com/zetFF/" target="_blank">
         <img src="https://img.shields.io/github/stars/zetFF?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub User's stars"/>
     </a>
-    |
-       <a href="https://github.com/zetFF/" target="_blank">
+    &nbsp;
+    <a href="https://github.com/zetFF/" target="_blank">
         <img src="https://img.shields.io/badge/Good-true-blue?style=flat-square&color=000000" alt="zetFF"/>
     </a>
-    |
 </p>
 
-<h1 align="center">🧑 Hello, im Afkar Ezi</h1>
+<h1 align="center">🧑 Hello, I'm Afkar Ezi</h1>
 
-###
+<h2 align="center">👨‍💻 Front-End Web Developer</h2>
 
-<h2 align="center">👨‍💻 I am FrontEnd Web Developer</h2>
+<h2 align="center">🎸 Bassist in a band</h2>
 
-###
+<h4 align="center">🖥️ Participant in Cyber Security forums</h4>
 
-<h2 align="center">🎸 I'm a bassist player in a band group</h2>
+<p align="center">
+  My hobby is playing musical instruments in my free time 🥁🎸🎻🪕🎷🎹<br>
+  <br>
+  🎶 Metalrock · Metalcore · Hardcore 🎶
+</p>
 
-###
+<p align="center">
+  Passionate about the world of the web — I keep exploring, especially in web programming.<br><br>
+  Thanks for stopping by my profile! Feel free to follow and let's collaborate for<br>
+  self-development and the growth of the digital era. 🙏
+</p>
 
-<h4 align="center">🖥️ have participated in Cyber Security forums</h4>
+<div align="center">
+  <img height="12" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  />
+</div>
 
-###
+<br>
 
-<p align="center">My hobby is to play all musical instruments when I have free time.🥁🎸🎻🪕🎷🎹<br><br>🎶Metalrock, Metalcore, Hardcore🎶</p>
-
-###
-
-<h1 align="center">other my Profile</h1>
-
-###
-
-<p align="center">was very interested in learning about the world of websites. As time goes by, I continue to explore the world of websites, especially in the field of web programming.</p>
-
-###
-
-<p align="center">we are very happy that you have visited our profile.<br>don't forget to follow this account and let us collaborate for self-development and the <br>development of the Digital era. thank you</p>
-
-###
-
-<h2 align="center">Social Media</h2>
+<h2 align="center">🌐 Social Media</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/zeetafrontdev/" target="_blank">
@@ -90,8 +80,7 @@
 
 <br>
 
-
-<h2 align="center">⚙️Language and Tools⚙️</h2>
+<h2 align="center">⚙️ Languages & Tools ⚙️</h2>
 
 <div align="center">
     <img align="center" width="50" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif"  />
@@ -103,10 +92,6 @@
 </div>
 
 <br>
-
-
-
-###
 
 <div align="center">
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="20" alt="css3 logo"  />
@@ -136,23 +121,17 @@
   <img height="12" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  />
 </div>
 
-###
-
-<h2 align="center">🔥 Statistic 🔥</h2>
-
-###
+<h2 align="center">🔥 Statistics 🔥</h2>
 
 <div align="center">
-  <!-- Baris 1: 3 Kolom Sejajar (Pastikan kode ini ditulis menyambung/satu baris agar tidak patah) -->
-  <img src="https://raw.githubusercontent.com/zetFF/zetFF/stats-output/stats.svg" height="150" alt="stats graph" /> <img src="https://raw.githubusercontent.com/zetFF/zetFF/languages-output/languages.svg" height="150" alt="languages graph" /> <img src="https://streak-stats.demolab.com?user=zetFF&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://raw.githubusercontent.com/zetFF/zetFF/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
+  <img src="https://raw.githubusercontent.com/zetFF/zetFF/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=11&theme=react&hide_border=true&order=2" height="150" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=zetFF&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" />
 
   <br /><br />
 
-  <!-- Baris 2: 1 Kolom Besar Sendiri -->
-  <img src="https://raw.githubusercontent.com/zetFF/zetFF/activity-graph-output/activity-graph.svg" width="100%" alt="activity-graph graph" />
+  <img src="https://raw.githubusercontent.com/zetFF/zetFF/activity-graph-output/activity-graph.svg" width="100%" alt="activity graph" />
 </div>
-
-###
 
 <div align="center">
   <picture>
@@ -162,66 +141,24 @@
   </picture>
 </div>
 
-###
-
-###
-
 <div align="center">
   <img height="12" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  />
 </div>
-
-###
-
-
-
-###
-
-
-
-###
-
-
-
-###
 
 <h2 align="center">🎵 Music 🎵</h2>
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31yco6mkeps3ryd5dm6mrm33tobi&unique={true|1|on|yes}" alt="Recently Played" />
-</p>
 
-###
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31yco6mkeps3ryd5dm6mrm33tobi&count=5&unique=true" alt="Recently played on Spotify" />
+</p>
 
 <div align="center">
   <img height="12" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  />
 </div>
 
-###
-
-
-
-<div data-importer="socials" align="center">
+<p align="center">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=for-the-badge" height="25" alt="spotify logo"  />
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-</div>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/zetFF/zetFF/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="160" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/zetFF/zetFF/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=11&theme=react&hide_border=true&order=2" height="140" alt="languages graph"  />
-</div>
-
-###
-
-<div data-importer="music" align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false](https://spotify-recently-played-readme.vercel.app/api?user=31yco6mkeps3ryd5dm6mrm33tobi&unique=yes" alt="Spotify recently played"  />
-</div>
-
-###
-
-
-
-
+</p>
