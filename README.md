@@ -56,15 +56,15 @@
  
 ###
 
-<h1 align="center"> 👨‍💻 Front-End Web Developer</h1>
+<h2 align="center"> 👨‍💻 Front-End Web Developer</h2>
 
 ###
 
-<h2 align="center">🎬 Multimedia Direction Experience</h2>
+<h3 align="center">🎬 Multimedia Direction Experience</h3>
 
 ###
 
-<h2 align="center"> 🎸 Bassist in a Band</h2>
+<h3 align="center"> 🎸 Bassist in a Band</h3>
 
  
 ###
