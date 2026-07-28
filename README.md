@@ -71,13 +71,6 @@
 ###
 
 
-###
- 
-
-
- 
-<p align="center">Thank you so much for visiting my profile</p>
-
  
 <br>
  
