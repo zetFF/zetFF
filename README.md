@@ -1,167 +1,117 @@
-<br>
 <div align="center">
-    <img align="center" width="100" src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png"  />
-</div>
+<img width="100" src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" />
 <br>
-<p align="center">
-    |
-    <a href="https://github.com/zetFF/" target="_blank">
-        <img src="https://komarev.com/ghpvc/?username=zetFF&label=Profile%20views&color=000000&style=flat-square" alt="view profile"/>
-    </a>
-    |
-    <a href="https://github.com/zetFF/" target="_blank">
-        <img src="https://img.shields.io/badge/Age-20 th-black" />
-    </a>
-    |
-    <a href="https://github.com/zetFF/" target="_blank">
-        <img src="https://img.shields.io/github/followers/zetFF?style=social" alt="GitHub followers"/>
-    </a>
-    |
-    <a href="https://github.com/zetFF/" target="_blank">
-        <img src="https://img.shields.io/github/stars/zetFF?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub User's stars"/>
-    </a>
-    |
-       <a href="https://github.com/zetFF/" target="_blank">
-        <img src="https://img.shields.io/badge/Good-true-blue?style=flat-square&color=000000" alt="zetFF"/>
-    </a>
-    |
-</p>
-
+# Hi, I'm Afkar Ezi 👋
  
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="discord logo"  />
-  <a href="https://youtube.com/@framediapro?si=NSE02zJg5QWvs95M" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/zzz_3t44/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="instagram logo"  />
-  </a>
-  <a href="https://open.spotify.com/playlist/7lW2ntIpzzhcHDqBLYkxFJ?si=7ed9554eedf44d6d" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=for-the-badge" height="24" alt="spotify logo"  />
-  </a>
-  <a href="mailto:ebdtv4@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="gmail logo"  />
-  </a>
-</div>
-<div align="center">
-  <img height="12" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  />
-</div>
-
-<br>
-
-<h1 align="center">🧑 Hello, I'm Afkar Ezi, 👨‍💻 Front-End Web Developer</h1>
- 
-###
- 
-
-<h2 align="center">🎬 Multimedia Director, 🎸 Bassist in a Band</h2>
- 
- 
- 
- 
-###
- 
-<p align="center">I've always been passionate about learning the world of websites. Over time, I've continued to explore web development, especially in the field of web programming.</p>
-
- 
-<h2 align="center">🎬 Multimedia Direction Experience</h2>
- 
-<p align="center">
-I have experience as a Multimedia Director for podcasts, talk shows, seminars, and Islamic events.
-I'm skilled in using OBS Studio, vMix, and other house production software for live production needs.
-</p>
-
- 
-<p align="center">Thank you so much for visiting my profile</p>
-
+### Front-End Web Developer &nbsp;•&nbsp; Multimedia Director &nbsp;•&nbsp; Bassist 🎸
  
 <br>
+<a href="https://github.com/zetFF/">
+  <img src="https://komarev.com/ghpvc/?username=zetFF&label=Profile%20views&color=6366f1&style=for-the-badge" alt="profile views" />
+</a>
+<a href="https://github.com/zetFF/">
+  <img src="https://img.shields.io/github/followers/zetFF?style=for-the-badge&color=6366f1&labelColor=black" alt="followers" />
+</a>
+<a href="https://github.com/zetFF/">
+  <img src="https://img.shields.io/github/stars/zetFF?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=6366f1&labelColor=black" alt="stars" />
+</a>
+<a href="https://github.com/zetFF/">
+  <img src="https://img.shields.io/badge/Age-20-6366f1?style=for-the-badge&labelColor=black" alt="age" />
+</a>
+<br><br>
  
-<h2 align="center">⚙️ priority ⚙️</h2>
+<a href="mailto:ebdtv4@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=black&style=for-the-badge" height="28" alt="gmail" /></a>&nbsp;
+<a href="https://www.instagram.com/zzz_3t44/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=black&style=for-the-badge" height="28" alt="instagram" /></a>&nbsp;
+<a href="https://youtube.com/@framediapro?si=NSE02zJg5QWvs95M"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=black&style=for-the-badge" height="28" alt="youtube" /></a>&nbsp;
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=black&style=for-the-badge" height="28" alt="linkedin" />&nbsp;
+<img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=black&style=for-the-badge" height="28" alt="twitter" />&nbsp;
+<img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=black&style=for-the-badge" height="28" alt="discord" />&nbsp;
+<a href="https://open.spotify.com/playlist/7lW2ntIpzzhcHDqBLYkxFJ?si=7ed9554eedf44d6d"><img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=black&style=for-the-badge" height="28" alt="spotify" /></a>
+ 
+</div>
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8" />
+<br>
+## 🧭 About Me
+ 
+I've always been passionate about the world of websites. Over time, I've continued exploring web development — especially web programming — while also building a parallel career behind the camera and the mixing desk.
+ 
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+### 👨‍💻 Web Development
+Front-end focused, building clean and responsive interfaces with modern JavaScript frameworks.
+ 
+</td>
+<td width="50%" valign="top">
+### 🎬 Multimedia Direction
+Experience directing live production for **podcasts, talk shows, seminars, and Islamic events** — running the show end-to-end with **OBS Studio**, **vMix**, and other house production tools.
+ 
+</td>
+</tr>
+</table>
+<br>
+## ⚙️ Tech Stack
  
 <div align="center">
-    <img align="center" width="50" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif"  />
-    <img align="center" width="50" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif"  />
-    <img align="center" width="50" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif"  />
-    <img align="center" width="50" src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif"  />
-    <img align="center" width="50" src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif"  />
-    <img align="center" width="50" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif"  />
+**Languages & Markup**
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="html5" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="css3" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="javascript" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/typescript/3178C6" height="42" alt="typescript" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="42" alt="php" />
+ 
+<br><br>
+ 
+**Frameworks & Runtime**
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" alt="react" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="42" alt="nextjs" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42" alt="nodejs" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="42" alt="laravel" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="42" alt="tailwind" />
+ 
+<br><br>
+ 
+**Tools & Platforms**
+<br>
+<img src="https://cdn.simpleicons.org/git/F05032" height="42" alt="git" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/github/181717" height="42" alt="github" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" alt="vscode" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vite" height="42" alt="vite" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vercel" height="42" alt="vercel" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/netlify/00C7B7" height="42" alt="netlify" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="42" alt="figma" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="42" alt="canva" />
+ 
 </div>
 <br>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8" />
 <br>
-
-<h3 align="center">⚙️ Other Tools and language ⚙️</h3>
+## 📊 GitHub Stats
  
-<div data-importer="techs" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo"  />
-  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="netlify logo"  />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
-  <img src="https://cdn.simpleicons.org/yarn/2C8EBB" height="40" alt="yarn logo"  />
-  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=zetFF&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="165" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zetFF&layout=compact&hide_title=true&langs_count=8&theme=tokyonight&hide_border=true" height="165" alt="languages graph" />
+<br>
+<img src="https://streak-stats.demolab.com?user=zetFF&mode=daily&theme=tokyonight&hide_border=true&border_radius=8" height="165" alt="streak graph" />
+<br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zetFF&radius=16&theme=tokyo-night&area=true&hide_border=true" width="90%" alt="activity graph" />
+</div>
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8" />
+<br>
+## 🎧 Currently Playing
+ 
+<div align="center">
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31yco6mkeps3ryd5dm6mrm33tobi&unique=true" alt="Recently Played" />
 </div>
 <br>
 <div align="center">
-  <img height="12" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  />
+### 🙌 Thanks for stopping by!
+ 
+If you're into web dev, live production, or just good metalcore — let's connect and build something together.
+ 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8" />
 </div>
-
- 
-<h2 align="center">🔥 Statistics 🔥</h2>
- 
-###
- 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zetFF&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zetFF&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=11&theme=react&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=zetFF&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zetFF&radius=16&theme=react&area=true&order=5&hide_border=true" height="150" alt="activity-graph graph"  />
-</div>
-
- 
-<div align="center">
-  <img height="12" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  />
-</div>
-
- 
- 
- 
-###
- 
- 
- 
-###
- 
- 
- 
-###
- 
-<h2 align="center">🎵 Music 🎵</h2>
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31yco6mkeps3ryd5dm6mrm33tobi&unique={true|1|on|yes}" alt="Recently Played" />
-</p>
-
- 
-<div align="center">
-  <img height="12" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  />
-</div>
-
