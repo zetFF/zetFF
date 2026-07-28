@@ -60,11 +60,11 @@
 
 ###
 
-<h3 align="center">🎬 Broadcast & Multimedia Direction Experience</h3>
+<h2 align="center">🎬 Broadcast & Multimedia Direction Experience</h2>
 
 ###
 
-<h3 align="center"> 🎸 Bassist in a Band</h3>
+<h2 align="center"> 🎸 Bassist in a Band</h2>
 
  
 ###
