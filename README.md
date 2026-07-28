@@ -67,9 +67,6 @@
  
 ###
  
-<h4 align="center">🖥️ Participant in Cyber Security Forums</h4>
- 
-###
  
 <p align="center">In my free time, my hobby is playing musical instruments.🥁🎸🎻🪕🎷🎹<br><br>🎶Metal, Metalcore, Hardcore🎶</p>
 
