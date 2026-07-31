@@ -43,6 +43,9 @@
 <p align="center">I have strong front-end skills using Tailwind CSS and am proficient in applying AI to front-end projects</p>
 
 ###
+
+<br>
+
 <h3 align="center"> 🧑 House Production Director 📸 </h3>
 <h3 align="center"> 🖥️ Web Developer and UI UX Designer </h3>
 <h3 align="center"> Intermediate Experience Video Editor </h3><br>
