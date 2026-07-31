@@ -44,14 +44,14 @@
 ###
 
 <p align="center">
-Passionate about exploring the world of web development. <br> I’m continuously learning and expanding my knowledge, with a strong focus on modern web programming and building impactful digital experiences.
+Passionate about exploring the world of web development. <br> I’m continuously learning and expanding my knowledge, with a strong focus <br> on modern web programming and building impactful digital experiences.
 </p>
 
 ###
 
 <p align="center">
 Thank you for visiting our profile!<br>
-We truly appreciate your support. Feel free to follow this account, connect, and collaborate as we grow together, share knowledge, and contribute to the ever-evolving digital era.<br>
+We truly appreciate your support. Feel free to follow this account, connect, and collaborate as we grow together, <br> share knowledge, and contribute to the ever-evolving digital era.
 Let's build, learn, and innovate together. 🚀
 </p>
 
