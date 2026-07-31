@@ -44,7 +44,7 @@
 ###
 
 <p align="center">
-Passionate about exploring the world of web development. I’m continuously learning and expanding my knowledge, with a strong focus on modern web programming and building impactful digital experiences.
+Passionate about exploring the world of web development. <br> I’m continuously learning and expanding my knowledge, with a strong focus on modern web programming and building impactful digital experiences.
 </p>
 
 ###
