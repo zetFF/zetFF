@@ -41,21 +41,6 @@
 <h3 align="center"> Intermediate Experience Video Editor </h3><br>
 <!-- End -->
 
-###
-
-<p align="center">
-Passionate about exploring the world of web development. <br> I’m continuously learning and expanding my knowledge, with a strong focus <br> on modern web programming and building impactful digital experiences.
-</p>
-
-###
-
-<p align="center">
-Thank you for visiting our profile!<br>
-We truly appreciate your support. Feel free to follow this account, connect, and collaborate as we grow together, <br> share knowledge, and contribute to the ever-evolving digital era.
-Let's build, learn, and innovate together. 🚀
-</p>
-
-###
 
 <!-- Garis Lurus -->
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
