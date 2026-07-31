@@ -35,6 +35,7 @@
 <!-- Profile -->
 <h1 align="center" > Hii <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm AFKAR EZI</h1>
 <h2 align="center"> 📌 I'm a student at STMIK El Rahma Yogyakarta, Indonesia.</h2>
+<p>I am currently in my third semester as a student at this university</p>
 <h2 align="center"> Frontend Developer & Multimedia Engineer</h2>
 <h3 align="center"> 🧑 House Production Director 📸 </h3>
 <h3 align="center"> 🖥️ Web Developer and UI UX Designer </h3>
