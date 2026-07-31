@@ -40,6 +40,9 @@
 ###
 
 <h2 align="center"> Frontend Developer & Multimedia Engineer</h2>
+<p align="center">I have strong front-end skills using Tailwind CSS and am proficient in applying AI to front-end projects</p>
+
+###
 <h3 align="center"> 🧑 House Production Director 📸 </h3>
 <h3 align="center"> 🖥️ Web Developer and UI UX Designer </h3>
 <h3 align="center"> Intermediate Experience Video Editor </h3><br>
