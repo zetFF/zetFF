@@ -133,7 +133,7 @@
 ###
  
 <div align="center">
-    <img width="30.2%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zetFF&show_icons=true&theme=react&hide_border=true&border_radius=5&order=3"/>
+    <img width="70.2%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zetFF&show_icons=true&theme=react&hide_border=true&border_radius=5&order=3"/>
     <img width="38.4%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zetFF&layout=compact&langs_count=10&theme=react&hide_border=true&border_radius=5&order=3"/>
   <img src="https://streak-stats.demolab.com?user=zetFF&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zetFF&radius=16&theme=react&area=true&order=5&hide_border=true" height="150" alt="activity-graph graph"  />
