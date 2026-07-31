@@ -37,7 +37,7 @@
 <h2 align="center"> 📌 I'm a student at STMIK El Rahma Yogyakarta, Indonesia.</h2>
 <p align="center">I am currently in my third semester as a student at this university</p>
 
-<br>
+###
 
 <h2 align="center"> Frontend Developer & Multimedia Engineer</h2>
 <h3 align="center"> 🧑 House Production Director 📸 </h3>
